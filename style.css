@@ -15,7 +15,7 @@ body {
     background-position: -2800px 0;
   }
   .ImgPopup {
-    position: absolute;
+    position: fixed;
     width: 200px;
     opacity: 0;
   }
